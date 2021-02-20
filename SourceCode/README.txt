@@ -1,2 +1,1 @@
-This folder contains the source codes
-Please contact xig4@aber.ac.uk to gain the access.
+Please contact xig4@aber.ac.uk to gain the access to the source code
